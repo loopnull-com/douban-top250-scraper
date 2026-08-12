@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+.env
+.env.*
+
+output/
+output-test/
+debug_detail.html
